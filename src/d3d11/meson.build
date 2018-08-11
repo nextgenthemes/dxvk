@@ -7,6 +7,7 @@ d3d10_src = [
   '../d3d10/d3d10_query.cpp',
   '../d3d10/d3d10_rasterizer.cpp',
   '../d3d10/d3d10_sampler.cpp',
+  '../d3d10/d3d10_shader.cpp',
   '../d3d10/d3d10_texture.cpp',
   '../d3d10/d3d10_util.cpp',
   '../d3d10/d3d10_view_dsv.cpp',
